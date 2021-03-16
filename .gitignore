@@ -1,0 +1,4 @@
+FindContours/FindContours/*.dll
+FindContours/.vs
+OpenCVTest/OpenCVTest/*.dll
+OpenCVTest/.vs
